@@ -1,0 +1,8 @@
+This project includes modified code derived from:
+WZCQ by FengQuanLi: https://github.com/FengQuanLi/WZCQ
+Related upstream project: https://github.com/FengQuanLi/ResnetGPT
+The local project adds Linux/Jetson capture and control, three-state visual
+classification, HUD OCR, temporal reward inference, and review tools.
+This distribution reorganizes the selected code, translates names and data
+schemas to English, and separates datasets, model weights, and generated output.
+See LICENSE for the upstream Apache-2.0 license.

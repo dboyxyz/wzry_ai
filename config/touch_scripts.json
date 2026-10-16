@@ -1,0 +1,23 @@
+{
+  "attack": "d 0 700 310 100\nc\nu 0\nc\n",
+  "last-hit": "d 0 650 326 100\nc\nu 0\nc\n",
+  "push-tower": "d 0 733 256 100\nc\nu 0\nc\n",
+  "skill1": "d 0 594 317 100\nc\nu 0\nc\n",
+  "skill2": "d 0 637 250 100\nc\nu 0\nc\n",
+  "skill3": "d 0 700 210 100\nc\nu 0\nc\n",
+  "summoner": "d 0 540 324 100\nc\nu 0\nc\n",
+  "recall": "d 0 440 324 100\nc\nu 0\nc\n",
+  "signal-attack": "d 0 743 53 100\nc\nu 0\nc\n",
+  "signal-retreat": "d 0 743 81 100\nc\nu 0\nc\n",
+  "signal-gather": "d 0 743 113 100\nc\nu 0\nc\n",
+  "up": "d 1 117 290 300\nc\nm 1 117 250 100\nc\n",
+  "right": "d 1 117 290 300\nc\nm 1 160 290 100\nc\n",
+  "down": "d 1 117 290 300\nc\nm 1 117 330 100\nc\n",
+  "left": "d 1 117 290 300\nc\nm 1 77 290 100\nc\n",
+  "up-left": "d 1 117 290 300\nc\nm 1 77 250 100\nc\n",
+  "down-left": "d 1 117 290 300\nc\nm 1 77 330 100\nc\n",
+  "down-right": "d 1 117 290 300\nc\nm 1 160 330 100\nc\n",
+  "up-right": "d 1 117 290 300\nc\nm 1 160 250 100\nc\n",
+  "stop": "u 1\nc\n",
+  "heal": "d 0 490 324 100\nc\nu 0\nc\n"
+}

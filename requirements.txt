@@ -1,0 +1,9 @@
+# Install a matching PyTorch/torchvision build separately for JetPack/CUDA.
+numpy<2
+Pillow
+opencv-python
+rapidocr-onnxruntime
+onnxruntime
+mss
+pynput
+scrcpy-client
